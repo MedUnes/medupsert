@@ -22,9 +22,9 @@
   "require": {
     "php": ">=7.4",
     "phpunit/php-code-coverage": "^9.2",
-    "symfony/monolog-bridge": "^5.2",
+    "symfony/monolog-bridge": "4.4.*",
     "symfony/monolog-bundle": "^3.6",
-    "symfony/property-access": "^5.2"
+    "symfony/property-access": "4.4.*"
   },
   "config": {
     "optimize-autoloader": true,
